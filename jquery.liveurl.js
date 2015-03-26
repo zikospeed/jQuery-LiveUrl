@@ -24,7 +24,7 @@
                     ['image','property', 'og:image'],
                     ['image','itemprop', 'image'],
                     ['title','property', 'og:title'],
-                    ['video','property', 'og:video'],
+                    ['video','property', 'og:video:secure_url'],
                     ['video_type','property', 'og:video:type'],
                     ['video_width','property', 'og:video:width'],
                     ['video_height','property', 'og:video:height']
